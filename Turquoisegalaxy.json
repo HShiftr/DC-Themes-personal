@@ -1,7 +1,7 @@
 {
     "name": "Turquoise Galaxy",
     "description": "Custom galaxy theme with transparent elements.",
-    "authors": [{ "name": "Purple_Ξye™" }],
+    "authors": [{ "name": "HShiftr" }],
     "spec": 2,
     "semanticColors": {
         /* These MUST be transparent to see your background image */
