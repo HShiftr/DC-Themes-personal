@@ -1,36 +1,42 @@
 {
-  "name": "Turquoise Galaxy",
-  "description": "Manual theme for Kettu, matching the artwork and your FL setup.",
-  "author": "Themer",
-  "semanticColors": {
-    /* Transparent backgrounds allow the image to show through */
-    "BACKGROUND_PRIMARY": ["#00000000"],
-    "BACKGROUND_SECONDARY": ["#00000000"],
-    "BACKGROUND_SECONDARY_ALT": ["#00000000"],
-    "BACKGROUND_TERTIARY": ["#00000000"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#00000000"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#00000000"],
+    "name": "Turquoise Galaxy",
+    "description": "Custom galaxy theme with transparent elements.",
+    "authors": [{ "name": "Purple_Ξye™" }],
+    "spec": 2,
+    "semanticColors": {
+        /* These MUST be transparent to see your background image */
+        "BACKGROUND_PRIMARY": ["#00000000"],
+        "BACKGROUND_SECONDARY": ["#00000000"],
+        "BACKGROUND_SECONDARY_ALT": ["#00000000"],
+        "BACKGROUND_TERTIARY": ["#00000000"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#00000000"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#00000000"],
+        "BG_BASE_PRIMARY": ["#00000000"],
+        "BG_BASE_SECONDARY": ["#00000000"],
+        "BG_BASE_TERTIARY": ["#00000000"],
 
-    /* Message bubbles and element overlays (semi-transparent dark turquoise) */
-    "MESSAGE_BUBBLE_PRIMARY": ["#101a2480"],
-    "MODAL_BACKGROUND_OVERLAY": ["#101a24cc"],
-
-    /* Light, high-contrast text and interactive colors */
-    "TEXT_NORMAL": ["#e0fcfc"],
-    "TEXT_MUTED": ["#a0cccc"],
-    "INTERACTIVE_NORMAL": ["#00f0e0"],
-    "INTERACTIVE_HOVER": ["#50fbfb"],
-    "INTERACTIVE_ACTIVE": ["#00e0d0"],
-    "MENTION_HIGHLIGHT_BACKGROUND": ["#00f0e010"]
-  },
-  "rawColors": {
-    /* General colors for the client mod, mapping the extracted palette */
-    "PRIMARY_600": "#101a24",
-    "ACCENT": "#00f0e0"
-  },
-  "background": {
-    "url": "https://postimg.cc/fSZSQbLQ",
-    "alpha": 0.6,
-    "blur": 1
-  }
+        /* Keeping your custom Turquoise accents */
+        "BACKGROUND_ACCENT": ["#00b688"],
+        "INTERACTIVE_ACTIVE": ["#00b688"],
+        "INTERACTIVE_NORMAL": ["#00b688"],
+        "TEXT_LINK": ["#00b688"],
+        "TEXT_NORMAL": ["#dbdee1"],
+        "BACKGROUND_MENTIONED": ["#00b68816"],
+        "MESSAGE_BUBBLE_PRIMARY": ["#0E0E0F80"] 
+    },
+    "rawColors": {
+        "PRIMARY_600": "#0b080d",
+        "ACCENT": "#00b688",
+        "BRAND_500": "#00b688"
+    },
+    "background": {
+        "url": "PASTE_YOUR_RAW_GITHUB_IMAGE_URL_HERE",
+        "alpha": 0.8,
+        "blur": 0
+    },
+    "plus": {
+        "version": 0,
+        "mentionLineColor": "#00b688",
+        "customIcons": true
+    }
 }
