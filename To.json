@@ -1,36 +1,134 @@
 {
-  "name": "Turquoise Galaxy Pro",
-  "description": "Full color overhaul using Vendetta Wiki keys",
-  "authors": [{ "name": "HShiftr", "id": "466968658997149706" }],
-  "spec": 2,
-  "semanticColors": {
-    "HEADER_PRIMARY": ["#4CAF50", "#4CAF50", "#4CAF50"],
-    "HEADER_SECONDARY": ["#81efde", "#81efde", "#81efde"],
-    "TEXT_NORMAL": ["#dcddde", "#dcddde", "#dcddde"],
-    "TEXT_LINK": ["#4CAF50", "#4CAF50", "#4CAF50"],
-    "INTERACTIVE_ACTIVE": ["#4CAF50", "#4CAF50", "#4CAF50"],
-    "INTERACTIVE_NORMAL": ["#43b581", "#43b581", "#43b581"],
-    "BACKGROUND_PRIMARY": ["#061a1aCC", "#061a1aCC", "#000000CC"],
-    "BACKGROUND_SECONDARY": ["#0a1a1aCC", "#0a1a1aCC", "#000000CC"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#061a1aCC", "#061a1aCC", "#000000CC"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#0a1a1aCC", "#0a1a1aCC", "#000000CC"],
-    "BG_BASE_PRIMARY": ["#061a1aB3", "#061a1aB3", "#000000B3"],
-    "BG_SURFACE_OVERLAY_TMP": ["#031111CC", "#031111CC", "#000000CC"],
-    "CHANNEL_ICON": ["#4CAF50", "#4CAF50", "#4CAF50"],
-    "CHAT_BACKGROUND": ["#00000000", "#00000000", "#00000000"],
-    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#43b581", "#43b581", "#43b581"]
-  },
-  "rawColors": {
-    "BRAND_500": "#4CAF50",
-    "PRIMARY_600": "#061a1a",
-    "PRIMARY_700": "#041818",
-    "PLUM_11": "#061a1aB3",
-    "PLUM_20": "#0a1a1aB3",
-    "BLACK_500": "#00000080"
-  },
-  "background": {
-    "url": "https://raw.githubusercontent.com/HShiftr/DC-Themes-personal/main/happy_holidays_by_ryky_dit74t0.png",
-    "blur": 0,
-    "alpha": 1
-  }
+    "name": "Turquoise Espresso",
+    "description": "Midnight-Espresso template modified with Turquoise Galaxy colors.",
+    "authors": [
+        {
+            "name": "HShiftr",
+            "id": "466968658997149706"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#e6f7f2"
+        ],
+        "HEADER_SECONDARY": [
+            "#8ebdb1"
+        ],
+        "TEXT_NORMAL": [
+            "#e6f7f2"
+        ],
+        "TEXT_MUTED": [
+            "#8ebdb1"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#8ebdb1"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#3ec79e"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#3ec79e"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#1a332f"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#0b5252"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#264541"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#1c3632"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#0b5252"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#3ec79e"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#264541"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#0b5252"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#264541"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#264541"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#1c3834"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1c3834"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#234742"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#2a5750"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#3ec79e"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#3ec79e"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#00000000"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#3ec79e"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#0b5252"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#264541"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#8ebdb1"
+        ],
+        "TEXT_LINK": [
+            "#3ec79e"
+        ],
+        "TEXT_DANGER": [
+            "#ff5252"
+        ],
+        "KEYBOARD": [
+            "#0b5252"
+        ],
+        "CHANNEL_ICON": [
+            "#e6f7f2"
+        ],
+        "CHAT_BACKGROUND": [
+            "#0b5252"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#3ec79e",
+        "PRIMARY_100": "#e6f7f2",
+        "PRIMARY_200": "#c2e8dd",
+        "PRIMARY_300": "#3ec79e",
+        "PRIMARY_360": "#3ec79e",
+        "PRIMARY_400": "#3ec79e",
+        "PRIMARY_600": "#0b5252",
+        "PRIMARY_630": "#264541",
+        "PRIMARY_660": "#264541",
+        "PRIMARY_700": "#0b5252",
+        "PRIMARY_800": "#063b3b",
+        "BRAND_260": "#264541",
+        "BRAND_360": "#3ec79e",
+        "BRAND_500": "#3ec79e",
+        "BRAND_560": "#264541",
+        "YELLOW_300": "#3ec79e",
+        "GREEN_600": "#e6f7f2",
+        "RED_400": "#ff5252",
+        "WHITE_500": "#e6f7f2",
+        "GREEN_360": "#3ec79e"
+    },
+    "spec": 2
 }
