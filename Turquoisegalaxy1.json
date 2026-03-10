@@ -11,8 +11,8 @@
   "semanticColors": {
     "HEADER_PRIMARY": ["#3ec79e", "#3ec79e", "#3ec79e"],
     "INTERACTIVE_ACTIVE": ["#3ec79e", "#3ec79e", "#3ec79e"],
-    "BACKGROUND_PRIMARY": ["#061a1a", "#061a1a", "#264541"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#061a1a", "#061a1a", "#264541"]
+    "BACKGROUND_PRIMARY": ["#0b5252", "#0b5252", "#264541"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#0b5252", "#0b5252", "#264541"]
   },
   "rawColors": {
     "BRAND_500": "#4CAF50"
