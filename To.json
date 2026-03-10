@@ -1,6 +1,6 @@
 {
-    "name": "Turquoise Galaxy Refined",
-    "description": "Fixed depth and transparency issues.",
+    "name": "Turquoise Galaxy V4",
+    "description": "Fixed navigation bar and darkened dividers.",
     "authors": [{ "name": "HShiftr", "id": "466968658997149706" }],
     "semanticColors": {
         "HEADER_PRIMARY": ["#ffffff"],
@@ -25,10 +25,14 @@
         "CHANNEL_ICON": ["#3ec79e"]
     },
     "rawColors": {
-        "PRIMARY_600": "#082b2b",
+        "PRIMARY_600": "#051a1acc",
+        "PRIMARY_630": "#051a1acc",
         "PRIMARY_700": "#051a1a",
         "PRIMARY_800": "#030d0d",
-        "BRAND_500": "#3ec79e",
+        "BRAND_260": "#3ec79e",
+        "BRAND_360": "#3ec79e",
+        "BRAND_500": "#082b2b",
+        "BRAND_560": "#051a1a",
         "PLUM_11": "#082b2b99",
         "PLUM_20": "#051a1a99"
     },
