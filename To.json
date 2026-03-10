@@ -1,0 +1,25 @@
+{
+  "name": "Turquoise Galaxy Final",
+  "description": "Fixed for Spec 2 Interface",
+  "authors": [
+    {
+      "name": "HShiftr",
+      "id": "466968658997149706"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#3ec79e", "#3ec79e", "#3ec79e"],
+    "INTERACTIVE_ACTIVE": ["#3ec79e", "#3ec79e", "#3ec79e"],
+    "BACKGROUND_PRIMARY": ["#0b5252", "#0b5252", "#264541"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#0b5252", "#0b5252", "#264541"]
+  },
+  "rawColors": {
+    "BRAND_500": "#4CAF50"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/HShiftr/DC-Themes-personal/main/happy_holidays_by_ryky_dit74t0.png",
+    "blur": 0,
+    "alpha": 1
+  }
+}
