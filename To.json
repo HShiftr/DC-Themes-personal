@@ -1,11 +1,11 @@
-{
+ppp{
     "name": "Turquoise Galaxy V3",
     "description": "Fixed for Redesign UI with swapped backgrounds.",
     "authors": [{ "name": "HShiftr", "id": "466968658997149706" }],
     "semanticColors": {
         "HEADER_PRIMARY": ["#e6f7f2"],
         "HEADER_SECONDARY": ["#8ebdb1"],
-        "TEXT_NORMAL": ["#e6f7f2"],
+        "TEXT_NORMAL": ["#f5fffc"],
         "TEXT_MUTED": ["#8ebdb1"],
         "INTERACTIVE_NORMAL": ["#8ebdb1"],
         "INTERACTIVE_HOVER": ["#3ec79e"],
@@ -14,9 +14,9 @@
         "BG_BASE_SECONDARY": ["#264541cc"],
         "BG_BASE_TERTIARY": ["#0b5252cc"],
         "BG_SURFACE_OVERLAY_TMP": ["#264541cc"],
-        "BACKGROUND_PRIMARY": ["#0b5252cc"],
+        "BACKGROUND_PRIMARY": ["#0d3636cc"],
         "BACKGROUND_SECONDARY": ["#264541cc"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#0b5252cc"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#0d3636cc"],
         "BACKGROUND_MOBILE_SECONDARY": ["#264541cc"],
         "BACKGROUND_MODIFIER_SELECTED": ["#2a5750"],
         "CHANNELTEXTAREA_BACKGROUND": ["#0b5252cc"],
