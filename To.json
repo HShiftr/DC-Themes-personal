@@ -1,41 +1,36 @@
 {
-    "name": "Turquoise Final",
-    "description": "Cleaned syntax with fixed background keys.",
-    "authors": [
-        {
-            "name": "HShiftr",
-            "id": "466968658997149706"
-        }
-    ],
+    "name": "Turquoise Galaxy Refined",
+    "description": "Fixed depth and transparency issues.",
+    "authors": [{ "name": "HShiftr", "id": "466968658997149706" }],
     "semanticColors": {
-        "HEADER_PRIMARY": ["#e6f7f2"],
-        "HEADER_SECONDARY": ["#8ebdb1"],
+        "HEADER_PRIMARY": ["#ffffff"],
+        "HEADER_SECONDARY": ["#3ec79e"],
         "TEXT_NORMAL": ["#e6f7f2"],
         "TEXT_MUTED": ["#8ebdb1"],
         "INTERACTIVE_NORMAL": ["#8ebdb1"],
         "INTERACTIVE_HOVER": ["#3ec79e"],
-        "INTERACTIVE_ACTIVE": ["#3ec79e"],
-        "BG_BASE_PRIMARY": ["#264541cc"],
-        "BG_BASE_SECONDARY": ["#0b5252cc"],
-        "BG_BASE_TERTIARY": ["#264541cc"],
-        "BG_SURFACE_OVERLAY_TMP": ["#0b5252cc"],
-        "BACKGROUND_PRIMARY": ["#264541cc"],
-        "BACKGROUND_SECONDARY": ["#0b5252cc"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#264541cc"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#0b5252cc"],
-        "BACKGROUND_MODIFIER_SELECTED": ["#3ec79e4d"],
-        "CHANNELTEXTAREA_BACKGROUND": ["#0b5252cc"],
+        "INTERACTIVE_ACTIVE": ["#ffffff"],
+        "BG_BASE_PRIMARY": ["#082b2b99"],
+        "BG_BASE_SECONDARY": ["#051a1a99"],
+        "BG_BASE_TERTIARY": ["#041414cc"],
+        "BG_SURFACE_OVERLAY_TMP": ["#082b2bbf"],
+        "BACKGROUND_PRIMARY": ["#082b2b99"],
+        "BACKGROUND_SECONDARY": ["#051a1a99"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#082b2b99"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#051a1a99"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#3ec79e33"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#051a1a99"],
         "CHAT_BACKGROUND": ["#00000000"],
         "TEXT_LINK": ["#3ec79e"],
-        "CHANNEL_ICON": ["#e6f7f2"]
+        "CHANNEL_ICON": ["#3ec79e"]
     },
     "rawColors": {
-        "PRIMARY_600": "#264541",
-        "PRIMARY_700": "#0b5252",
-        "PRIMARY_800": "#063b3b",
+        "PRIMARY_600": "#082b2b",
+        "PRIMARY_700": "#051a1a",
+        "PRIMARY_800": "#030d0d",
         "BRAND_500": "#3ec79e",
-        "PLUM_11": "#264541cc",
-        "PLUM_20": "#0b5252cc"
+        "PLUM_11": "#082b2b99",
+        "PLUM_20": "#051a1a99"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/HShiftr/DC-Themes-personal/main/Untitled78_20260310192650.png",
