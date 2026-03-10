@@ -1,57 +1,57 @@
 {
-    "name": "Turquoise Galaxy Ukiyo",
-    "description": "Ported logic from Ukiyo theme to fix stubborn grey elements.",
-    "authors": [
-        {
-            "name": "HShiftr",
-            "id": "466968658997149706"
-        }
-    ],
-    "semanticColors": {
-        "HEADER_PRIMARY": ["#e6f7f2"],
-        "HEADER_SECONDARY": ["#e6f7f2"],
-        "TEXT_NORMAL": ["#e6f7f2"],
-        "TEXT_MUTED": ["#8ebdb1"],
-        "INTERACTIVE_NORMAL": ["#8ebdb1"],
-        "INTERACTIVE_HOVER": ["#3ec79e"],
-        "INTERACTIVE_ACTIVE": ["#ffffff"],
-        "INTERACTIVE_MUTED": ["#1a332f"],
-        "BACKGROUND_PRIMARY": ["#0b5252cc"],
-        "BACKGROUND_SECONDARY": ["#264541cc"],
-        "BACKGROUND_TERTIARY": ["#0b5252cc"],
-        "BACKGROUND_ACCENT": ["#264541cc"],
-        "BACKGROUND_FLOATING": ["#264541cc"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#264541cc"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#264541cc"],
-        "BACKGROUND_NESTED_FLOATING": ["#264541cc"],
-        "BACKGROUND_MESSAGE_HOVER": ["#1c3834"],
-        "BACKGROUND_MODIFIER_HOVER": ["#1c3834"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#234742"],
-        "BACKGROUND_MODIFIER_SELECTED": ["#2a5750"],
-        "BACKGROUND_MODIFIER_ACCENT": ["#3ec79e"],
-        "CHANNEL_ICON": ["#8ebdb1"],
-        "CHAT_BACKGROUND": ["#00000000"],
-        "CHANNELS_DEFAULT": ["#8ebdb1"]
-    },
-    "rawColors": {
-        "PRIMARY_100": ["#e6f7f2"],
-        "PRIMARY_200": ["#c2e8dd"],
-        "PRIMARY_300": ["#8ebdb1"],
-        "PRIMARY_600": ["#0b5252"],
-        "PRIMARY_630": ["#264541"],
-        "PRIMARY_660": ["#264541"],
-        "PRIMARY_700": ["#0b5252"],
-        "PRIMARY_800": ["#0b5252"],
-        "BRAND_260": ["#8ebdb1"],
-        "BRAND_360": ["#3ec79e"],
-        "BRAND_500": ["#3ec79e"],
-        "BRAND_560": ["#3ec79e"],
-        "WHITE_500": ["#e6f7f2"]
-    },
-    "background": {
-        "url": "https://raw.githubusercontent.com/HShiftr/DC-Themes-personal/main/Untitled78_20260310192650.png",
-        "blur": 0,
-        "alpha": 1
-    },
-    "spec": 2
+  "name": "Turquoise Galaxy Final",
+  "description": "Fixed syntax error for Vendetta/Enmity engines.",
+  "authors": [
+    {
+      "name": "HShiftr",
+      "id": "466968658997149706"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#e6f7f2"],
+    "HEADER_SECONDARY": ["#e6f7f2"],
+    "TEXT_NORMAL": ["#e6f7f2"],
+    "TEXT_MUTED": ["#8ebdb1"],
+    "INTERACTIVE_NORMAL": ["#8ebdb1"],
+    "INTERACTIVE_HOVER": ["#3ec79e"],
+    "INTERACTIVE_ACTIVE": ["#ffffff"],
+    "INTERACTIVE_MUTED": ["#1a332f"],
+    "BACKGROUND_PRIMARY": ["#0b5252cc"],
+    "BACKGROUND_SECONDARY": ["#264541cc"],
+    "BACKGROUND_TERTIARY": ["#0b5252cc"],
+    "BACKGROUND_ACCENT": ["#264541cc"],
+    "BACKGROUND_FLOATING": ["#264541cc"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#264541cc"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#264541cc"],
+    "BACKGROUND_NESTED_FLOATING": ["#264541cc"],
+    "BACKGROUND_MESSAGE_HOVER": ["#1c3834"],
+    "BACKGROUND_MODIFIER_HOVER": ["#1c3834"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#234742"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#2a5750"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#3ec79e"],
+    "CHANNEL_ICON": ["#8ebdb1"],
+    "CHAT_BACKGROUND": ["#00000000"],
+    "CHANNELS_DEFAULT": ["#8ebdb1"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#e6f7f2",
+    "PRIMARY_200": "#c2e8dd",
+    "PRIMARY_300": "#8ebdb1",
+    "PRIMARY_600": "#0b5252",
+    "PRIMARY_630": "#264541",
+    "PRIMARY_660": "#264541",
+    "PRIMARY_700": "#0b5252",
+    "PRIMARY_800": "#0b5252",
+    "BRAND_260": "#8ebdb1",
+    "BRAND_360": "#3ec79e",
+    "BRAND_500": "#3ec79e",
+    "BRAND_560": "#3ec79e",
+    "WHITE_500": "#e6f7f2"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/HShiftr/DC-Themes-personal/main/Untitled78_20260310192650.png",
+    "blur": 0,
+    "alpha": 1
+  },
+  "spec": 2
 }
