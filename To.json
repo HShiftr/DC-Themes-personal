@@ -1,6 +1,6 @@
 {
-    "name": "Turquoise Espresso",
-    "description": "Midnight-Espresso template modified with Turquoise Galaxy colors.",
+    "name": "Turquoise Galaxy V2",
+    "description": "A turquoise based theme.",
     "authors": [
         {
             "name": "HShiftr",
@@ -33,31 +33,31 @@
             "#1a332f"
         ],
         "BACKGROUND_PRIMARY": [
-            "#0b5252"
+            "#264541cc"
         ],
         "BACKGROUND_SECONDARY": [
-            "#264541"
+            "#0b5252cc"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1c3632"
+            "#0b5252cc"
         ],
         "BACKGROUND_TERTIARY": [
-            "#0b5252"
+            "#264541cc"
         ],
         "BACKGROUND_ACCENT": [
             "#3ec79e"
         ],
         "BACKGROUND_FLOATING": [
-            "#264541"
+            "#0b5252cc"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#0b5252"
+            "#264541cc"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#264541"
+            "#0b5252cc"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#264541"
+            "#0b5252cc"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#1c3834"
@@ -84,10 +84,10 @@
             "#3ec79e"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#0b5252"
+            "#264541"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#264541"
+            "#0b5252cc"
         ],
         "CHANNELS_DEFAULT": [
             "#8ebdb1"
@@ -99,13 +99,13 @@
             "#ff5252"
         ],
         "KEYBOARD": [
-            "#0b5252"
+            "#264541cc"
         ],
         "CHANNEL_ICON": [
             "#e6f7f2"
         ],
         "CHAT_BACKGROUND": [
-            "#0b5252"
+            "#00000000"
         ]
     },
     "rawColors": {
@@ -115,20 +115,25 @@
         "PRIMARY_300": "#3ec79e",
         "PRIMARY_360": "#3ec79e",
         "PRIMARY_400": "#3ec79e",
-        "PRIMARY_600": "#0b5252",
-        "PRIMARY_630": "#264541",
-        "PRIMARY_660": "#264541",
-        "PRIMARY_700": "#0b5252",
+        "PRIMARY_600": "#264541",
+        "PRIMARY_630": "#0b5252",
+        "PRIMARY_660": "#0b5252",
+        "PRIMARY_700": "#264541",
         "PRIMARY_800": "#063b3b",
-        "BRAND_260": "#264541",
+        "BRAND_260": "#0b5252",
         "BRAND_360": "#3ec79e",
         "BRAND_500": "#3ec79e",
-        "BRAND_560": "#264541",
+        "BRAND_560": "#0b5252",
         "YELLOW_300": "#3ec79e",
         "GREEN_600": "#e6f7f2",
         "RED_400": "#ff5252",
         "WHITE_500": "#e6f7f2",
         "GREEN_360": "#3ec79e"
+    },
+    "background": {
+        "url": "https://raw.githubusercontent.com/HShiftr/DC-Themes-personal/main/Untitled78_20260310192650.png",
+        "blur": 0,
+        "alpha": 1
     },
     "spec": 2
 }
