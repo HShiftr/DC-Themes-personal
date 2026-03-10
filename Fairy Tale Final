@@ -1,6 +1,6 @@
 {
     "name": "Fairy Tale",
-    "description": "A theme inspired by Synthion's "Fairy Tale" album artwork.",
+    "description": "A theme inspired by Synthion's \"Fairy Tale\" album artwork.",
     "authors": [{ "name": "HShiftr", "id": "466968658997149706" }],
     "semanticColors": {
         "HEADER_PRIMARY": ["#ffffff"],
