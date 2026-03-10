@@ -1,21 +1,32 @@
 {
-  "name": "Turquoise Galaxy Final",
-  "description": "Fixed for Spec 2 Interface",
-  "authors": [
-    {
-      "name": "HShiftr",
-      "id": "466968658997149706"
-    }
-  ],
+  "name": "Turquoise Galaxy Pro",
+  "description": "Full color overhaul using Vendetta Wiki keys",
+  "authors": [{ "name": "HShiftr", "id": "466968658997149706" }],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": ["#3ec79e", "#3ec79e", "#3ec79e"],
-    "INTERACTIVE_ACTIVE": ["#3ec79e", "#3ec79e", "#3ec79e"],
-    "BACKGROUND_PRIMARY": ["#0b5252", "#0b5252", "#264541"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#0b5252", "#0b5252", "#264541"]
+    "HEADER_PRIMARY": ["#4CAF50", "#4CAF50", "#4CAF50"],
+    "HEADER_SECONDARY": ["#81efde", "#81efde", "#81efde"],
+    "TEXT_NORMAL": ["#dcddde", "#dcddde", "#dcddde"],
+    "TEXT_LINK": ["#4CAF50", "#4CAF50", "#4CAF50"],
+    "INTERACTIVE_ACTIVE": ["#4CAF50", "#4CAF50", "#4CAF50"],
+    "INTERACTIVE_NORMAL": ["#43b581", "#43b581", "#43b581"],
+    "BACKGROUND_PRIMARY": ["#061a1aCC", "#061a1aCC", "#000000CC"],
+    "BACKGROUND_SECONDARY": ["#0a1a1aCC", "#0a1a1aCC", "#000000CC"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#061a1aCC", "#061a1aCC", "#000000CC"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#0a1a1aCC", "#0a1a1aCC", "#000000CC"],
+    "BG_BASE_PRIMARY": ["#061a1aB3", "#061a1aB3", "#000000B3"],
+    "BG_SURFACE_OVERLAY_TMP": ["#031111CC", "#031111CC", "#000000CC"],
+    "CHANNEL_ICON": ["#4CAF50", "#4CAF50", "#4CAF50"],
+    "CHAT_BACKGROUND": ["#00000000", "#00000000", "#00000000"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#43b581", "#43b581", "#43b581"]
   },
   "rawColors": {
-    "BRAND_500": "#4CAF50"
+    "BRAND_500": "#4CAF50",
+    "PRIMARY_600": "#061a1a",
+    "PRIMARY_700": "#041818",
+    "PLUM_11": "#061a1aB3",
+    "PLUM_20": "#0a1a1aB3",
+    "BLACK_500": "#00000080"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/HShiftr/DC-Themes-personal/main/happy_holidays_by_ryky_dit74t0.png",
