@@ -1,6 +1,6 @@
 {
-    "name": "Turquoise Galaxy V4",
-    "description": "Fixed navigation bar and darkened dividers.",
+    "name": "Turquoise Galaxy V5",
+    "description": "Interactive UI fixes and dark nav bar.",
     "authors": [{ "name": "HShiftr", "id": "466968658997149706" }],
     "semanticColors": {
         "HEADER_PRIMARY": ["#ffffff"],
@@ -22,6 +22,10 @@
         "CHANNELTEXTAREA_BACKGROUND": ["#051a1a99"],
         "CHAT_BACKGROUND": ["#00000000"],
         "TEXT_LINK": ["#3ec79e"],
+        "CONTROL_BRAND_FILL": ["#3ec79e"],
+        "CONTROL_BRAND_FILL_ACTIVE": ["#4df0c0"],
+        "BUTTON_SECONDARY_BACKGROUND": ["#1c2e2e"],
+        "BUTTON_SECONDARY_TEXT": ["#8ebdb1"],
         "CHANNEL_ICON": ["#3ec79e"]
     },
     "rawColors": {
@@ -29,10 +33,8 @@
         "PRIMARY_630": "#051a1acc",
         "PRIMARY_700": "#051a1a",
         "PRIMARY_800": "#030d0d",
-        "BRAND_260": "#3ec79e",
-        "BRAND_360": "#3ec79e",
-        "BRAND_500": "#082b2b",
-        "BRAND_560": "#051a1a",
+        "BRAND_500": "#3ec79e",
+        "BRAND_560": "#082b2b",
         "PLUM_11": "#082b2b99",
         "PLUM_20": "#051a1a99"
     },
