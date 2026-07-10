@@ -1,6 +1,6 @@
 {
     "name": "Nico's Journey (Light)",
-    "description": "A theme inspired by the charming game "Sunset Hills".",
+    "description": "A theme inspired by the charming game \"Sunset Hills\".",
     "authors": [{ "name": "HShiftr", "id": "466968658997149706" }],
     "semanticColors": {
         "HEADER_PRIMARY": ["#fff5eb"],
